@@ -1,0 +1,28 @@
+
+
+
+/* AddNew.css */
+.add-new-container {
+  width: 150px;
+  text-align: center;
+  }
+.add-new {
+    width: 150px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #000; /* Adjust border color as needed */
+    border-radius: 8px; /* Adjust border radius as needed */
+    cursor: pointer;
+  }
+  
+  .icon {
+    font-size: 24px; /* Adjust icon size as needed */
+  }
+  .add-new-container p{
+    font-size: 18px;
+    font-weight: bold;
+  
+  }
+  
